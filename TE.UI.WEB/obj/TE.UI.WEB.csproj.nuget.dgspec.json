@@ -162,6 +162,9 @@
             "projectReferences": {
               "C:\\Users\\omeganet\\OneDrive\\Bureau\\netttt\\revision net\\TemplateExample\\TE.Core.Interfaces\\TE.Core.Interfaces.csproj": {
                 "projectPath": "C:\\Users\\omeganet\\OneDrive\\Bureau\\netttt\\revision net\\TemplateExample\\TE.Core.Interfaces\\TE.Core.Interfaces.csproj"
+              },
+              "C:\\Users\\omeganet\\OneDrive\\Bureau\\netttt\\revision net\\TemplateExample\\TE.Domain\\TE.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\omeganet\\OneDrive\\Bureau\\netttt\\revision net\\TemplateExample\\TE.Domain\\TE.Core.Domain.csproj"
               }
             }
           }
@@ -346,6 +349,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             }
           },
           "imports": [

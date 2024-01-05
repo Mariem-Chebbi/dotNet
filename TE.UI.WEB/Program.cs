@@ -1,4 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using TE.Core.Domain;
+using TE.Core.Interfaces;
+using TE.Core.Services;
+using TE.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddScoped<IService<Enseignant>, Service<Enseignant>>();
+builder.Services.AddScoped<IService<Candidature>, Service<Candidature>>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddDbContext<DbContext, TEContext>();
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

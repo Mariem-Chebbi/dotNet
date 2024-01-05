@@ -10,3 +10,15 @@ C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Interfaces\ob
 C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\refint\TE.Core.Interfaces.dll
 C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\TE.Core.Interfaces.pdb
 C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\ref\TE.Core.Interfaces.dll
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\bin\Debug\net6.0\TE.Core.Interfaces.deps.json
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\bin\Debug\net6.0\TE.Core.Interfaces.dll
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\bin\Debug\net6.0\TE.Core.Interfaces.pdb
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\TE.Core.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\TE.Core.Interfaces.AssemblyInfoInputs.cache
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\TE.Core.Interfaces.AssemblyInfo.cs
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\TE.Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\TE.Core.Interfaces.sourcelink.json
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\TE.Core.Interfaces.dll
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\refint\TE.Core.Interfaces.dll
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\TE.Core.Interfaces.pdb
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Interfaces\obj\Debug\net6.0\ref\TE.Core.Interfaces.dll

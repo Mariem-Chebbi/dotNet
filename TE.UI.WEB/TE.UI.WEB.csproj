@@ -14,6 +14,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="7.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
   </ItemGroup>
 
   <ItemGroup>
@@ -21,6 +22,10 @@
     <ProjectReference Include="..\TE.Core.Services\TE.Core.Services.csproj" />
     <ProjectReference Include="..\TE.Data\TE.Data.csproj" />
     <ProjectReference Include="..\TE.Domain\TE.Core.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\uploads\" />
   </ItemGroup>
 
 </Project>

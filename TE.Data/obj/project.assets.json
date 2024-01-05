@@ -1215,6 +1215,16 @@
           }
         }
       },
+      "TE.Core.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TE.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TE.Core.Domain.dll": {}
+        }
+      },
       "TE.Core.Interfaces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3639,6 +3649,11 @@
         "version.txt"
       ]
     },
+    "TE.Core.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TE.Domain/TE.Core.Domain.csproj",
+      "msbuildProject": "../TE.Domain/TE.Core.Domain.csproj"
+    },
     "TE.Core.Interfaces/1.0.0": {
       "type": "project",
       "path": "../TE.Core.Interfaces/TE.Core.Interfaces.csproj",
@@ -3651,6 +3666,7 @@
       "Microsoft.EntityFrameworkCore.Proxies >= 7.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.1",
+      "TE.Core.Domain >= 1.0.0",
       "TE.Core.Interfaces >= 1.0.0"
     ]
   },
@@ -3689,6 +3705,9 @@
           "projectReferences": {
             "C:\\Users\\omeganet\\OneDrive\\Bureau\\netttt\\revision net\\TemplateExample\\TE.Core.Interfaces\\TE.Core.Interfaces.csproj": {
               "projectPath": "C:\\Users\\omeganet\\OneDrive\\Bureau\\netttt\\revision net\\TemplateExample\\TE.Core.Interfaces\\TE.Core.Interfaces.csproj"
+            },
+            "C:\\Users\\omeganet\\OneDrive\\Bureau\\netttt\\revision net\\TemplateExample\\TE.Domain\\TE.Core.Domain.csproj": {
+              "projectPath": "C:\\Users\\omeganet\\OneDrive\\Bureau\\netttt\\revision net\\TemplateExample\\TE.Domain\\TE.Core.Domain.csproj"
             }
           }
         }

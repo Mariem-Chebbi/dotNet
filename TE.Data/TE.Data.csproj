@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TE.Core.Interfaces\TE.Core.Interfaces.csproj" />
+    <ProjectReference Include="..\TE.Domain\TE.Core.Domain.csproj" />
   </ItemGroup>
 
 </Project>

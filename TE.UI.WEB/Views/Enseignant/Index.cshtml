@@ -1,0 +1,63 @@
+﻿@model IEnumerable<TE.Core.Domain.Enseignant>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<fieldset>
+    <legend>Search By:</legend>
+    <form asp-action="index">
+        <label>UP</label>
+        <input type="text" name="f1" />
+        <label>Promotion</label>
+        <input type="text" name="f2" />
+        <input type="submit" value="Search" />
+    </form>
+</fieldset>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Grade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Matricule)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Specialite)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UPFK)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Matricule)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Specialite)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MyUP.Nom)
+            </td>
+            <td>
+                    @Html.ActionLink("Candidatures", "Index","Candidature", new {  id=item.Matricule  }) |
+                @Html.ActionLink("Details", "Detailss", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.UI.WEB
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/omeganet/OneDrive/Bureau/netttt/revision net/TemplateExample/TE.UI.WEB/Views/Candidature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXR1cmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/omeganet/OneDrive/Bureau/netttt/revision net/TemplateExample/TE.UI.WEB/Views/Enseignant/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5zZWlnbmFudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/omeganet/OneDrive/Bureau/netttt/revision net/TemplateExample/TE.UI.WEB/Views/Enseignant/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5zZWlnbmFudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/omeganet/OneDrive/Bureau/netttt/revision net/TemplateExample/TE.UI.WEB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

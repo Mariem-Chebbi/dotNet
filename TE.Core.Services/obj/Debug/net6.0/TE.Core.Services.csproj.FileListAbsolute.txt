@@ -15,3 +15,21 @@ C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\
 C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\obj\Debug\net6.0\ref\TE.Core.Services.dll
 C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Domain.dll
 C:\Users\Rahma\Desktop\Esprit\2022-2023\TP\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Domain.pdb
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Services.deps.json
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Services.dll
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Services.pdb
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Domain.dll
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Interfaces.dll
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Interfaces.pdb
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\bin\Debug\net6.0\TE.Core.Domain.pdb
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.csproj.AssemblyReference.cache
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.AssemblyInfoInputs.cache
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.AssemblyInfo.cs
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.sourcelink.json
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.csproj.CopyComplete
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.dll
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\refint\TE.Core.Services.dll
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\TE.Core.Services.pdb
+C:\Users\omeganet\OneDrive\Bureau\netttt\revision net\TemplateExample\TE.Core.Services\obj\Debug\net6.0\ref\TE.Core.Services.dll
